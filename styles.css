@@ -1,4 +1,23 @@
 .profile-img{
     width: 200px;
     border-radius: 20%;
+    border: 2px solid black;
+    margin-bottom: 16px;
+}
+
+body{
+    background-image: url("./image/background.png");
+    background-size: cover;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 16px;
+}
+
+footer{
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
 }
